@@ -1,0 +1,35 @@
+h1, h2 {
+    color: #004d4d;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+ul {
+    list-style-type: circle;
+    margin-left: 2em;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 1em auto;
+    width: 80%;
+}
+
+td, th {
+    border: 1px solid #004d4d;
+    padding: 0.5em;
+}
+
+th {
+    background-color: #004d4d;
+    color: #fff;
+    text-align: center;
+}
+
+
